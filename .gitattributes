@@ -1,0 +1,5 @@
+# Text files
+* text=auto
+
+# Compressed Archives
+*.gz binary
