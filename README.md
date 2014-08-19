@@ -1,4 +1,6 @@
-talib-binaries
-==============
+TA-Lib prebuilt libraries
+=========================
 
-Binaries for TA-Lib on Debian/Ubuntu 64-bit. 
+Prebuilt Binaries for TA-Lib. Can be bundled for Debian/Ubuntu 64-bit. 
+
+Used in conjunction with [this Heroku buildpack](https://github.com/aneesh-neelam/heroku-buildpack-python-talib)
